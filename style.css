@@ -52,14 +52,14 @@
   flex-basis: 100px;
 }
 .launch-time div p {
-  font-size: 60px;
+  font-size: 40px;
   margin-bottom: 1px;
 }
 .launch-time div span {
   padding-top: 10px;
 }
 .rocket {
-  width: 250px;
+  width: 200px;
   position: absolute;
   right: 10%;
   bottom: 0;
